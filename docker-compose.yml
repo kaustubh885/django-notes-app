@@ -4,3 +4,4 @@ services :
      image : writetoritika/my-note-app:latest
      ports :
          - "8000:8000"
+
